@@ -17,7 +17,7 @@ public enum Relationship {
 }
 ```
 
-[Person](src/main/java/com/clarsen/designpatterns/di/model/Person.java) is the model of we are relating together.
+[Person](src/main/java/com/clarsen/designpatterns/di/model/Person.java) is the model of what we are relating together.
 ```
 public class Person {
     private String name;
